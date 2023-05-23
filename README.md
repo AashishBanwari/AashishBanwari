@@ -1,16 +1,22 @@
-### Hi there 👋
+📊 Data Enthusiast | 📈 Visualization Specilist | 💡 Problem Solver
 
-<!--
-**AashishBanwari/AashishBanwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An aspiring Data Analyst with a strong foundation in Customer Success and a Passion for Data Analytics
 
-Here are some ideas to get you started:
+I have a unique combination of excellent interpersonal skills, a deep understanding of customer behaviour, and a strong analytical mindset. I am a quick learner and am always eager to expand my knowledge and skillset.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 Skills:
+
+  - ETL
+  - Data Cleaning, Modeling, Visualization
+  - Business Intelligence and Acumen
+  - SQL and Database Management
+  - Excellent Communication 
+  - Detail and Result Oriented
+
+⚙️ Tools:
+- SQL (SSMS, PostgreSQL)
+- Microsoft Power BI Desktop
+- Advanced Excel (Lookups, Conditional Formatting, Pivot Tables, Macros)
+- Microsoft Suit
+
+
