@@ -15,7 +15,7 @@ I have a unique combination of excellent interpersonal skills, a deep understand
 
 ⚙️ Tools:
 - SQL (SSMS, PostgreSQL)
-- Microsoft Power BI Desktop
+- Microsoft Power BI 
 - Advanced Excel (Lookups, Conditional Formatting, Pivot Tables, Macros)
 - Microsoft Suite
 
