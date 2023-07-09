@@ -12,6 +12,7 @@ I have a unique combination of excellent interpersonal skills, a deep understand
   - SQL and Database Management
   - Excellent Communication 
   - Detail and Result Oriented
+  - Python (Beginner)
 
 ⚙️ Tools:
 - SQL (SSMS, PostgreSQL)
