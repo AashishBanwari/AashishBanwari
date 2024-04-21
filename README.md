@@ -4,11 +4,11 @@
 
   - ETL
   - Data Cleaning, Modeling, Visualization
+  - Python Programming
   - Business Intelligence and Acumen
   - SQL and Database Management
   - Excellent Communication 
   - Detail and Result Oriented
-  - Python
 
 ⚙️ Tools:
 - SQL (SQL Server, PostgreSQL, Oracle)
