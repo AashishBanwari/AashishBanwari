@@ -14,7 +14,7 @@
 - SQL (SQL Server, PostgreSQL, Oracle)
 - Google Cloud Platform (Big Query)
 - Microsoft Power BI Desktop
-- Pycharm, Jupyter notebook
+- Pycharm, Jupyter Notebook
 - Advanced Excel (Lookups, Conditional Formatting, Pivot Tables, Macros)
 - Microsoft Suite
 
