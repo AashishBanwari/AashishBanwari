@@ -1,21 +1,21 @@
 📊 Data Analyst  | 📈 Visualization Specilist | 💡 Problem Solver
 
 🔬 Skills:
-
-  - ETL
   - Data Cleaning, Modeling, Visualization
-  - Python Programming
+  - ETL (Multiple Sources)
+  - SQL (Database Management, Stored Procedures, Views) 
+  - Python
+  - VBA, Macros, Excel Automation
   - Business Intelligence and Acumen
-  - SQL and Database Management
-  - Excellent Communication 
+  - Excellent Communication
   - Detail and Result Oriented
 
 ⚙️ Tools:
-- SQL (SQL Server, PostgreSQL, Oracle)
+- SQL (MS SQL Server, Oracle Developer, PostgreSQL, MySQL)
 - Google Cloud Platform (Big Query)
-- Microsoft Power BI Desktop
-- Pycharm, Jupyter Notebook
-- Advanced Excel (Lookups, Conditional Formatting, Pivot Tables, Macros)
+- Microsoft Power BI Desktop/Serice
+- Python (Pycharm, Jupyter Notebook, Google Colab)
+- Advanced Excel (Lookups, Conditional Formatting, Pivot Tables, Macros, VBA Script)
 - Microsoft Suite
 
 
