@@ -1,4 +1,4 @@
-📊 Data Analyst  | 📈 Visualization Specilist | 💡 Problem Solver
+📈 Data Analyst  | 📊 Visualization Specilist | 💡 Problem Solver
 
 
 👋 I'm a passionate Data Analyst with over 2 years of experience in managing databases and creating impactful data visualizations. 
