@@ -12,8 +12,6 @@
 
 - **Programming:** Knowledgeable in Python, particularly with pandas and numpy for data analysis.
 
-I thrive on transforming raw data into actionable insights and improving business outcomes through meticulous data analysis. Check out my projects and feel free to connect for collaboration!
-
 🔬 Skills:
   - Data Cleaning, Modeling, Visualization
   - ETL (Multiple Sources)
@@ -31,5 +29,8 @@ I thrive on transforming raw data into actionable insights and improving busines
   - Python (Pycharm, Jupyter Notebook, Google Colab)
   - Excel (Lookups, Conditional Formatting, Pivot Tables, Macros, VBA Script)
   - Microsoft Suite
+
+I thrive on transforming raw data into actionable insights and improving business outcomes through meticulous data analysis. 
+<br/> Check out my projects and feel free to connect for collaboration!
 
 
