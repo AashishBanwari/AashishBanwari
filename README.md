@@ -12,7 +12,7 @@
 
 - **Programming:** Knowledgeable in Python, particularly with pandas and numpy for data analysis.
 
-🔬 Skills:
+🔬 **Skills:**
   - Data Cleaning, Modeling, Visualization
   - ETL (Multiple Sources)
   - SQL (Database Management, Stored Procedures, Views, Triggers) 
@@ -22,7 +22,7 @@
   - Excellent Communication
   - Detail and Result Oriented
 
-⚙️ Tools:
+⚙️ **Tools:**
   - SQL (MS SQL Server, Oracle Developer, PostgreSQL, MySQL)
   - Google Cloud Platform (Big Query)
   - Microsoft Power BI Desktop/Serice
