@@ -1,7 +1,8 @@
 📊 Data Analyst  | 📈 Visualization Specilist | 💡 Problem Solver
 
 
-👋 I'm a passionate Data Analyst with over 2 years of experience in managing databases and creating impactful data visualizations. My expertise lies in:
+👋 I'm a passionate Data Analyst with over 2 years of experience in managing databases and creating impactful data visualizations. 
+My expertise lies in:
 
 - **SQL:** Advanced management of databases using MS SQL Server and Oracle Developer.
 
