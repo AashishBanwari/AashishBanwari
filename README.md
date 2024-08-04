@@ -1,36 +1,14 @@
 📈 Data Analyst  | 📊 Visualization Specilist | 💡 Problem Solver
 
+👋 I'm a passionate Data Analyst with over 2 years of experience in managing databases and creating impactful data visualizations. <br/> My expertise lies in transforming raw data into actionable insights to improve business outcomes.
 
-👋 I'm a passionate Data Analyst with over 2 years of experience in managing databases and creating impactful data visualizations. 
-<br/> My expertise lies in:
-
-- **SQL:** Advanced management of databases using MS SQL Server and Oracle Developer.
-
-- **Power BI:** Crafting dynamic and insightful dashboards to drive data-driven decisions.
-
-- **Advanced Excel:** Mastering Excel, including VBA, for sophisticated data analysis and automation.
-
-- **Programming:** Knowledgeable in Python, particularly with pandas and numpy for data analysis.
-
-🔬 **Skills:**
-  - Data Cleaning, Modeling, Visualization
-  - ETL (Multiple Sources)
-  - SQL (Database Management, Stored Procedures, Views, Triggers) 
-  - Python
-  - VBA, Macros, Excel Automation
-  - Business Intelligence and Acumen
-  - Excellent Communication
-  - Detail and Result Oriented
-
-⚙️ **Tools:**
-  - SQL (MS SQL Server, Oracle Developer, PostgreSQL, MySQL)
-  - Google Cloud Platform (Big Query)
-  - Microsoft Power BI Desktop/Serice
-  - Python (Pycharm, Jupyter Notebook, Google Colab)
-  - Excel (Lookups, Conditional Formatting, Pivot Tables, Macros, VBA Script)
-  - Microsoft Suite
+**Skills:**
+   - **SQL (MS SQL Server, Oracle, PostgreSQL, MySQL):** Data Warehousing, Query Optimization, Complex Queries, Stored Procedures, Views, Triggers
+   - **Power BI:** Advanced Dashboard Creation, Data Modeling, DAX Formulas, Power Query, Custom Visualizations
+   - **Python (Pandas, Numpy):** Data Manipulation, Statistical Analysis, Data Cleaning, Automation Scripts
+   - **Excel:** Advanced Formulas, Pivottables, VBA Scripting, Data Analysis, Automation With Macros
+   - **ETL:** Extracting, Transforming, and Loading Data from multiple sources
+   - **Business Intelligence and Acumen:** Driving Data-Driven decisions
 
 I thrive on transforming raw data into actionable insights and improving business outcomes through meticulous data analysis. 
-<br/> Check out my projects and feel free to connect for collaboration!
-
-
+<br/> Check out my projects and feel free to connect for more details!
