@@ -3,7 +3,7 @@
 👋 I'm a passionate Data Analyst with over 2 years of experience in managing databases and creating impactful data visualizations. <br/> My expertise lies in transforming raw data into actionable insights to improve business outcomes.
 
 **Skills:**
-   - **SQL (MS SQL Server, Oracle, PostgreSQL, MySQL):** Data Warehousing, Query Optimization, Complex Queries, Stored Procedures, Views, Triggers
+   - **SQL (MS SQL Server, Oracle, PostgreSQL, MySQL):** Data Warehousing, Query Optimization, Complex Queries, CTE, Stored Procedures, Views, Triggers
    - **ETL:** Extracting, Transforming, and Loading Data from multiple sources
    - **Power BI:** Advanced Dashboard Creation, Data Modeling, DAX Formulas, Power Query, Custom Visualizations
    - **Python (Pandas, Numpy):** Data Manipulation, Statistical Analysis, Data Cleaning, Automation Scripts
