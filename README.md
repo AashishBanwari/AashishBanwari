@@ -4,10 +4,10 @@
 
 **Skills:**
    - **SQL (MS SQL Server, Oracle, PostgreSQL, MySQL):** Data Warehousing, Query Optimization, Complex Queries, Stored Procedures, Views, Triggers
+   - **ETL:** Extracting, Transforming, and Loading Data from multiple sources
    - **Power BI:** Advanced Dashboard Creation, Data Modeling, DAX Formulas, Power Query, Custom Visualizations
    - **Python (Pandas, Numpy):** Data Manipulation, Statistical Analysis, Data Cleaning, Automation Scripts
    - **Excel:** Advanced Formulas, Pivottables, VBA Scripting, Data Analysis, Automation With Macros
-   - **ETL:** Extracting, Transforming, and Loading Data from multiple sources
    - **Business Intelligence:** Driving Data-Driven decisions
 
 I thrive on transforming raw data into actionable insights and improving business outcomes through meticulous data analysis. 
